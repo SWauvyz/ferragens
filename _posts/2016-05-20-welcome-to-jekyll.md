@@ -2,4 +2,4 @@
 layout: post
 title: bem vindo veja as atualizações
 ---
-![](assets/negros1.jpg)
+<img src="assets/negros1.jpg">
